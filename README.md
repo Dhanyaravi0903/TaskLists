@@ -1,4 +1,4 @@
-# 📋 Cross-Platform Todo Task Management App
+# 📋 Todo Task Management App
 
 A sleek, user-friendly Todo Task Manager built using *React Native (Expo)* for both Android and iOS. Users can authenticate via *Google Sign-In* and manage personal tasks with full CRUD operations. The app offers *offline support, smooth **animations*, and a polished, responsive UI.
 
@@ -27,7 +27,7 @@ A sleek, user-friendly Todo Task Manager built using *React Native (Expo)* for b
 - "No data" empty state screens
 
 ### 📦 Offline Support
-- Local task storage using *SQLite* / *MMKV* / *Realm* / *AsyncStorage*
+- Local task storage using *SQLite* 
 - No need for external databases
 
 
@@ -52,14 +52,14 @@ A sleek, user-friendly Todo Task Manager built using *React Native (Expo)* for b
 
 ## 🌐 Live Demo
 
-- You can try out the live version of SkillMentor.AI below:
-- **SkillMentor**: https://skill-mentor-ai.vercel.app/
-- Feel free to explore the platform, browse courses, and make enrollment and start your learning journey!
+- You can try out the Apk version of TaskList below:
+- **TaskList**: https://drive.google.com/drive/folders/1SlIYcTezJcHP_-ZUbYjhEspvshzcASz5?usp=drive_link
+- Feel free to explore the application, add Tasks, and start your task management journey!
 
 ## 🎥 Video Explanation
 
-- *Watch a full walkthrough of SkillMentor.AI*:  
-  [Video Walkthrough](https://drive.google.com/drive/folders/11DTujW8423aT6JMOkF26WsWCM_6H6JGY)
+- *Watch a full walkthrough of TaskList*:  
+  [Video Walkthrough](https://drive.google.com/drive/folders/1gFlYxlCuZ4RIvwSiXY5wzBFeuc3cRvja?usp=drive_link)
 
   ---
 
@@ -78,5 +78,13 @@ npm list --depth=0
 # 3. Start the development server
 npx expo start
 
-**SkillMentor.AI** — Empowering learners worldwide with AI-driven education 🚀🎓  
-Made with ❤️ by the SkillMentor.AI Team.
+
+
+
+---
+
+**Todo Task Management App** — # 📋 Cross-Platform Todo Task Management App  
+A sleek, user-friendly Todo Task Manager 🚀🎓  
+This project is a part of a hackathon run by  
+
+[https://www.katomaran.com](https://www.katomaran.com)
