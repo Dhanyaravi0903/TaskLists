@@ -53,13 +53,13 @@ A sleek, user-friendly Todo Task Manager built using *React Native (Expo)* for b
 ## 🌐 Live Demo
 
 - You can try out the Apk version of TaskList below:
-- **TaskList**: https://drive.google.com/drive/folders/1SlIYcTezJcHP_-ZUbYjhEspvshzcASz5?usp=drive_link
+- **TaskList**: https://drive.google.com/drive/folders/1gFlYxlCuZ4RIvwSiXY5wzBFeuc3cRvja
 - Feel free to explore the application, add Tasks, and start your task management journey!
 
 ## 🎥 Video Explanation
 
 - *Watch a full walkthrough of TaskList*:  
-  [Video Walkthrough](https://drive.google.com/drive/folders/1gFlYxlCuZ4RIvwSiXY5wzBFeuc3cRvja?usp=drive_link)
+  [Video Walkthrough] :https://drive.google.com/drive/folders/1gFlYxlCuZ4RIvwSiXY5wzBFeuc3cRvja
 
   ---
 
